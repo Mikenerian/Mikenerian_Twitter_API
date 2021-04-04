@@ -1,0 +1,6 @@
+そのうちアーキテクチャ図とか作る
+
+
+AWS Lambda -> Tweet
+ ^
+ secrets managerからAPI情報取得
